@@ -15,11 +15,11 @@
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 🛡️ [LeetSquad](https://github.com/Aswanth-create/leetsquad) | Group collaboration & chat app where users can create/join groups and chat using their LeetCode usernames. MongoDB not yet connected. | React, Node.js, Express | [GitHub](https://github.com/Aswanth-create/leetsquad) |
-| 📝 [Blog App (Auth)](https://github.com/Aswanth-create/blog-app) | Full auth flow with Login, Signup, Logout. Home shows dummy blogs. Navbar shows "Welcome username", Blog title, and Logout button. | React + Vite | [GitHub](https://github.com/Aswanth-create/blog-app) |
-| ✍️ [Blog App (Create/Edit)](https://github.com/Aswanth-create/new-edit-blog) | Upload and edit blogs with media (images, videos, files). Blogs display on homepage. | React + Vite | [GitHub](https://github.com/Aswanth-create/new-edit-blog) |
-| 👨‍💼 [Employee Manager](https://github.com/Aswanth-create/employee-app) | Add, update, delete, and view employee records with simple CRUD operations. | React + Node.js | [GitHub](https://github.com/Aswanth-create/employee-app) |
-| 🎨 [MUI Component Site](https://github.com/Aswanth-create/mui-demo) | A 6-page site exploring Material UI: counter, live text update, product cards, signup UI, employee list, and framework buttons. | React + Vite + MUI | [GitHub](https://github.com/Aswanth-create/mui-demo) |
+| 🛡️ [LeetSquad] | Group collaboration & chat app where users can create/join groups and chat using their LeetCode usernames. | React, Node.js, Express | [GitHub](https://github.com/Aswanth-create/leetsquad-app.git) |
+| 📝 [Blog App (Auth)] | Full auth flow with Login, Signup, Logout. Home shows dummy blogs. Navbar shows "Welcome username", Blog title, and Logout button. | React + Vite | [GitHub](https://github.com/Aswanth-create/blog-app.git) |
+| ✍️ [Blog App (Create/Edit)] | Upload and edit blogs with media (images, videos, files). Blogs display on homepage. | React + Vite | [GitHub](https://github.com/Aswanth-create/new-edit-blog) |
+| 👨‍💼 [Employee Manager] | Add, update, delete, and view employee records with simple CRUD operations. | React + Node.js | [GitHub](https://github.com/Aswanth-create/employee-app.git) |
+| 🎨 [MUI Component Site] | A 6-page site exploring Material UI: counter, live text update, product cards, signup UI, employee list, and framework buttons. | React + Vite + MUI | [GitHub](https://github.com/Aswanth-create/my-app.git) |
 
 ---
 
