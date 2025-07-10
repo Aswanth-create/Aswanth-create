@@ -15,11 +15,11 @@
 
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
-| 📝 [Blog App](https://github.com/Aswanth-create/blog-app) | Login/signup, create/edit blogs with logout | React + Vite + Node.js | [GitHub](https://github.com/Aswanth-create/blog-app) |
-LEETSQUAD-APP | [Github](https://github.com/Aswanth-create/leetsquad-app.git) |
-| 👨‍💼 [Employee Manager](https://github.com/Aswanth-create/employee-app) | Add, update, delete, and view employee data | React + Node + Express | [GitHub](https://github.com/Aswanth-create/employee-app) |
-| 🎨 [MUI Component Site](https://github.com/Aswanth-create/mui-demo) | A 6-page demo website using Material UI | React + MUI + Vite | [GitHub](https://github.com/Aswanth-create/mui-demo) |
-| ✏️ [Blog Create & Edit](https://github.com/Aswanth-create/blog-create-edit) | Frontend pages for new blog and edit blog | React + Vite | [GitHub](https://github.com/Aswanth-create/blog-create-edit) |
+| 🛡️ [LeetSquad](https://github.com/Aswanth-create/leetsquad) | Group collaboration & chat app where users can create/join groups and chat using their LeetCode usernames. MongoDB not yet connected. | React, Node.js, Express | [GitHub](https://github.com/Aswanth-create/leetsquad) |
+| 📝 [Blog App (Auth)](https://github.com/Aswanth-create/blog-app) | Full auth flow with Login, Signup, Logout. Home shows dummy blogs. Navbar shows "Welcome username", Blog title, and Logout button. | React + Vite | [GitHub](https://github.com/Aswanth-create/blog-app) |
+| ✍️ [Blog App (Create/Edit)](https://github.com/Aswanth-create/new-edit-blog) | Upload and edit blogs with media (images, videos, files). Blogs display on homepage. | React + Vite | [GitHub](https://github.com/Aswanth-create/new-edit-blog) |
+| 👨‍💼 [Employee Manager](https://github.com/Aswanth-create/employee-app) | Add, update, delete, and view employee records with simple CRUD operations. | React + Node.js | [GitHub](https://github.com/Aswanth-create/employee-app) |
+| 🎨 [MUI Component Site](https://github.com/Aswanth-create/mui-demo) | A 6-page site exploring Material UI: counter, live text update, product cards, signup UI, employee list, and framework buttons. | React + Vite + MUI | [GitHub](https://github.com/Aswanth-create/mui-demo) |
 
 ---
 
@@ -33,6 +33,7 @@ LEETSQUAD-APP | [Github](https://github.com/Aswanth-create/leetsquad-app.git) |
 **Frontend:**  
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vite](https://img.shields.io/badge/-Vite-646cff?style=flat-square&logo=vite)
+![MUI](https://img.shields.io/badge/-MUI-blue?style=flat-square&logo=mui)
 
 **Backend:**  
 ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js)
@@ -73,4 +74,3 @@ LEETSQUAD-APP | [Github](https://github.com/Aswanth-create/leetsquad-app.git) |
 ---
 
 ### ⚡ “Code with purpose. Build with passion.”
-
