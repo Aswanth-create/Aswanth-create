@@ -16,6 +16,7 @@
 | Project | Description | Stack | Links |
 |--------|-------------|-------|-------|
 | 📝 [Blog App](https://github.com/Aswanth-create/blog-app) | Login/signup, create/edit blogs with logout | React + Vite + Node.js | [GitHub](https://github.com/Aswanth-create/blog-app) |
+LEETSQUAD-APP | [Github](https://github.com/Aswanth-create/leetsquad-app.git) |
 | 👨‍💼 [Employee Manager](https://github.com/Aswanth-create/employee-app) | Add, update, delete, and view employee data | React + Node + Express | [GitHub](https://github.com/Aswanth-create/employee-app) |
 | 🎨 [MUI Component Site](https://github.com/Aswanth-create/mui-demo) | A 6-page demo website using Material UI | React + MUI + Vite | [GitHub](https://github.com/Aswanth-create/mui-demo) |
 | ✏️ [Blog Create & Edit](https://github.com/Aswanth-create/blog-create-edit) | Frontend pages for new blog and edit blog | React + Vite | [GitHub](https://github.com/Aswanth-create/blog-create-edit) |
